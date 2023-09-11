@@ -1,0 +1,19 @@
+{
+    "name": "vue2-demo",
+    "version": "0.0.0",
+    "private": true,
+    "prettier": "@yutengjing/prettier-config",
+    "scripts": {
+        "dev": "vite"
+    },
+    "dependencies": {
+        "vue": "2.7.14",
+        "vue-demi": "^0.14.6"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue2": "^2.2.0",
+        "@yutengjing/prettier-config": "^0.0.1",
+        "@yutengjing/tsconfig-vue": "^0.0.3",
+        "vite": "^4.4.9"
+    }
+}
